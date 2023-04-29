@@ -1,0 +1,99 @@
+Panel	Brickiminos
+Pause	Pause
+Reserve	Hold
+Entree	Enter
+Prochain	Next
+Points	Points
+Temps de Jeu	Game Time
+Fin de partie	Game over
+Page d'accueil	Homepage
+CONTROLES	CONTROLS
+Controles	Controls
+A PROPOS	ABOUT
+Langue	Language
+Par 1	1 row
+Par 2	2 rows
+Par 3	3 rows
+Par 4	4 rows
+Lignes	Lines
+Temps de jeu	Game time
+Performances	Performance
+Bonus multi-lignes	Multiline bonus
+Points	Points
+Controle Brickimino	Brickimino control
+Score	Score
+Votre meilleur score, bravo	Your best score, jolly good
+2J	2Players
+Une nouvelle version est disponible	A new version is available
+Telechargement	Download
+Fermer	Close
+ENTREE	ENTER
+Debut	Start
+ESPACE	SPACE
+Pause	Pause
+J#	Player#
+Joueur	Player
+Jouer a 2	Play 2
+Recevoir les memes pieces que le joueur n 1	Get same panel of pieces as 1st player gets
+Attendre le second joueur avant de recevoir les memes pieces	Wait for 2nd player and get same panel of pieces
+Audio	Audio
+Capture d'ecran	Screenshot
+Lacher	Drop
+Sauter	Jump
+FLECHES Gauche-Droite	Left-right arrows
+Deplacer	Shift
+FLECHES Haut-Bas	Up-down arrows
+1/4 tour	Quarter turn
+Res.	Hold
+Recup.	Release
+Grille	Grid
+3D/2D	Toggle 3D
+Jeu etroit/large	Toggle grid
+Fleche Haut: Sens horaire ; Fleche Bas: Sens anti-horaire	Up arrow: Clockwise ; Down arrow: Counterclockwise
+F1 Reserve le Brickimino en cours	F1 Current Brickimino aside
+F2 Recupere le Brickimino en reserve	F2 Get held Brickimino back
+F3 Avec/sans la grille	F3 Grid on/off
+F4 vue 3D/2D + Souris	F4 Toggle 3D + Mouse
+F5 Grille etroite ou large	F5 Toggle grid width
+[Ctrl] + [Fin] : Fin de partie	[Ctrl + End] : End of game
+MAJ Gauche :XX. Juste a l'instant de l'arriveeXXsur une cellule, sauter une rangee	Left SHIFT : Jump a row ; Please note :XXJust upon arrival on a cell
+Fleche Haut: 1/4 tour horaireXX+ Ctrl gauche: 1/4 tour anti-horaire	Up arrow: Clockwise 1/4 turnXX+ left Ctrl : Counterclockwise
+Fichier JPG enregistre dans le dossier	JPG file folder
+FLECHE Haut	Up arrow
+F5 pour une nouvelle partie	F5 For a new game
+Recommencer	New game
+F6 pour changer de Grille (etroite / large)	F6 Toggle regular or narrow grid scale
+Langue	Language
+Cellules	Cells
+Defaut	Regular
+Bouton	Button
+Coeur	Heart
+Diamant	Diamond
+Etoile	Star
+Octogone	Octagon
+Triangle	Triangle
+Forme 2D	2D Shape
+Forme 3D	3D Shape
+Soutenir	Donate
+cube	Cube
+bille	Ball
+hexagone	Hexagon
+flocon	Flake
+T	T
+etoile	Star
+volumes 3D	3D volumes
+Grille: Format 20x30 ou 10x20	Toggle 20x30 or 10x20 playfield
+Lignes completes	Complete lines
+Series de 2	2 line bursts
+Series de 3	3 line bursts
+Series de 4	4 line bursts
+Record battu	New record
+Grille standard	Regular playfield
+Fenetre reduite	Reduced window
+Grille large	Wide playfield
+Bonus multi-lignes	Multiline bonus
+Statistiques	Statistics
+Soutien au developpement de Imbricker	Support the development of Imbricker
+ImgFnd	BkgImg
+Annuler l'image de fond personnalisee	Cancel custom BkGrd image
+Controle Brickimino	Brickimino controls

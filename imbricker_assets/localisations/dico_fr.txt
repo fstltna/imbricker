@@ -1,0 +1,52 @@
+Entree: Lacher | Ctrl: Sauter	Entrée: Lâcher | Ctrl: Sauter
+F1: Entree en reserve | F2: Sortie	F1: Entrée en réserve | F2: Sortie
+Reserve	Réserve
+Actions/Brickiminos	Brickiminos
+Fleches Gauche-Droite: Deplacer	Flèches Gauche-Droite: Déplacer
+Fleches Haut-Bas: 1/4 tour	Flèches Haut-Bas: 1/4 tour
+Entree	Entrée
+Entree: Debut | Espace: Pause | Fin	Entrée: Début | Espace: Pause | Fin
+CONTROLES	CONTRÔLES
+F8: Audio F12: Capture d'ecran	F8: Audio F12: Capture d'écran
+Duree	Durée
+F1: Res. | F2: Recup. | F3: Grille	F1: Rés. | F2: Récup. | F3: Grille
+F1 met de cote le Brickimino en cours ; F2 le recupere ; F3 Avec/sans la grille	F1 met de côté le Brickimino en cours ; F2 le récupère ; F3 Avec/sans la grille
+F4: 3D/2D | F5: Jeu etroit/large	F4: 3D/2D | F5: Grille large/minimaliste
+Telechargement	Téléchargement
+Debut	Début
+Capture d'ecran	Capture d'écran
+Lacher	Lâcher
+Deplacer	Déplacer
+Res.	Rés.
+Recup.	Récup.
+Jeu etroit/large	Jeu étroit/large
+F1 Reserve le Brickimino en cours	F1 Réserve le Brickimino en cours
+F2 Recupere le Brickiminos en reserve	F2 Récupère le Brickimino en réserve
+F5 Grille etroite ou large	F5 Grille étroite ou large
+MAJ Gauche :XX. Juste a l'instant de l'arriveeXXsur une cellule, sauter une rangee	MAJ Gauche :XX. Juste à l'instant de l'arrivéeXXsur une cellule, sauter une rangée
+Fleche Haut: 1/4 tour horaireXX+ Ctrl gauche: 1/4 tour anti-horaire	Flèche Haut: 1/4 tour horaireXX+ Ctrl gauche: 1/4 tour anti-horaire
+Fichier JPG enregistre dans le dossier	Fichier JPG enregistré dans le dossier
+Controles	Contrôles
+J#	Joueur n.
+Jouer a 2	Jouer à 2
+Recevoir les memes pieces que le joueur n 1	Recevoir les mêmes pièces que le joueur n°1
+Attendre le second joueur avant de recevoir les memes pieces	Attendre le second joueur avant de recevoir les mêmes pièces
+Changement actif apres relance (F5)	Changement actif après relance (F5)
+Defaut	Couleurs
+Apporter son soutien a GeeXLab	Apporter son soutien à GeeXLab
+cube	Cube
+bille	Bille
+hexagone	Hexagone
+flocon	Flocon
+T	T
+etoile	Etoile
+volumes 3D	Volumes 3D
+Fenetre reduite	Fenêtre réduite
+Series de 2	Séries de 2
+Series de 3	Séries de 3
+Series de 4	Séries de 4
+Lignes completes	Lignes complètes
+Soutien au developpement de Imbricker	Soutien au développement d'Imbricker
+Panel	Brickiminos
+Annuler l'image de fond personnalisee	Annuler l'image de fond personnalisée
+Controle Brickimino	Contrôles Brickimino

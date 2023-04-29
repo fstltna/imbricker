@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<!-- MàJ Imbricker -->
+<geexlab_init
+demofile="_T_"
+check_version="0"
+width="1150"
+height="900"
+enable_window_offsets="0"
+window_offset_x="-1"
+window_offset_y="-1"
+/>

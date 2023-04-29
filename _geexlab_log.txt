@@ -1,0 +1,83 @@
+17:42:33:527(0000001)	[info ]	GeeXLab Player v0.35.3.0 (Aug  5 2020@18:38:47)
+17:42:33:527(0000002)	[info ]	GeeXLab - Cross-platform Proto Engine (Lua, Python, GLSL, OpenGL, Vulkan)
+17:42:33:527(0000003)	[info ]	(C)2009-2020 Geeks3D
+17:42:33:527(0000004)	[info ]	Homepage: https://geeks3d.com/geexlab/
+17:42:33:527(0000005)	[info ]	GeeXLab Player is starting up...
+17:42:33:527(0000006)	[info ]	[stb] STB image loader. Supported formats: *.JPEG, *.PNG, *.TGA, *.BMP, *.PSD, *.GIF, *.HDR, *.PIC
+17:42:33:527(0000007)	[info ]	[tinyexr] EXR image loader.
+17:42:33:527(0000008)	[info ]	[lib3ds] Lib3ds loader (core plugin).
+17:42:33:527(0000009)	[info ]	[ObjLoaderV1] OBJ 3D loader (core plugin).
+17:42:33:527(0000010)	[info ]	[ObjLoaderV2] OBJ loader based on Tiny OBJ Loader (core plugin).
+17:42:33:527(0000011)	[info ]	[STL] STL (StereoLithography) 3D loader (core plugin).
+17:42:33:527(0000012)	[info ]	[glTF] glTF 3D loader (core plugin).
+17:42:33:527(0000013)	[info ]	[SQLite3] SQLite3 version 3.32.3
+17:42:33:527(0000014)	[info ]	GraphX Core 0.37.2.0 (codename: Hawking) initialization ok.
+17:42:33:528(0000015)	[info ]	GeeXLab home directory: Z:\home\marisag\Downloads\Imbricker_win64\
+17:42:33:528(0000016)	[info ]	Windows version: Windows 7 build 7601
+17:42:33:528(0000017)	[info ]	SW platform type: Windows 64-bit
+17:42:33:528(0000018)	[info ]	Python 2 home directory: Z:\home\marisag\Downloads\Imbricker_win64\python2
+17:42:33:528(0000019)	[info ]	Python 3 home directory: Z:\home\marisag\Downloads\Imbricker_win64\python3
+17:42:33:528(0000020)	[info ]	Plugins search path: Z:\home\marisag\Downloads\Imbricker_win64\plugins/;
+17:42:33:528(0000021)	[info ]	App directory: Z:\home\marisag\Downloads\Imbricker_win64\
+17:42:33:528(0000022)	[info ]	Scripting libs directory: Z:\home\marisag\Downloads\Imbricker_win64\libs\
+17:42:33:550(0000023)	[info ]	=========================================================================
+17:42:33:567(0000024)	[info ]	[Assimp] ASSIMP 3D object loader plugin.
+17:42:33:567(0000025)	[info ]	[Assimp] version: 5.0.0
+17:42:33:567(0000026)	[info ]	[Assimp] supported 3D formats: *.3d;*.3ds;*.3mf;*.ac;*.ac3d;*.acc;*.amf;*.ase;*.ask;*.assbin;*.b3d;*.blend;*.bvh;*.cob;*.csm;*.dae;*.dxf;*.enff;*.fbx;*.glb;*.gltf;*.hmp;*.ifc;*.ifczip;*.irr;*.irrmesh;*.lwo;*.lws;*.lxo;*.md2;*.md3;*.md5anim;*.md5camera;*.md5mesh;*.mdc;*.mdl;*.mesh;*.mesh.xml;*.mot;*.ms3d;*.ndo;*.nff;*.obj;*.off;*.ogex;*.pk3;*.ply;*.pmx;*.prj;*.q3o;*.q3s;*.raw;*.scn;*.sib;*.smd;*.stl;*.stp;*.ter;*.uc;*.vta;*.x;*.x3d;*.x3db;*.xgl;*.xml;*.zae;*.zgl
+17:42:34:095(0000027)	[info ]	Imbricker - demo started with an OpenGL 2.1 context.
+17:42:34:096(0000028)	[info ]	Quick OpenGL information (use /glinfo for more limits):
+17:42:34:096(0000029)	[info ]	GL_RENDERER: Mesa Mobile IntelÂ® GM45 Express Chipset (CTG)
+17:42:34:096(0000030)	[info ]	GL_VENDOR: Intel
+17:42:34:096(0000031)	[info ]	GL_VERSION: 2.1 Mesa 22.2.5
+17:42:34:096(0000032)	[info ]	GL_SHADING_LANGUAGE_VERSION: 1.20
+17:42:34:096(0000033)	[info ]	OpenGL version detected: 2.1
+17:42:34:096(0000034)	[info ]	OpenGL extensions: 228
+17:42:34:096(0000035)	[info ]	OpenGL hardware limits:
+17:42:34:096(0000036)	[info ]	  GL_MAX_VERTEX_ATTRIBS: 16
+17:42:34:096(0000037)	[info ]	  GL_MAX_VERTEX_UNIFORM_COMPONENTS: 16384
+17:42:34:096(0000038)	[info ]	  GL_MAX_FRAGMENT_UNIFORM_COMPONENTS: 16384
+17:42:34:096(0000039)	[info ]	  GL_MAX_TEXTURE_SIZE: 8192
+17:42:34:096(0000040)	[info ]	  GL_MAX_VIEWPORT_DIMS: 8192 8192
+17:42:34:096(0000041)	[info ]	  GL_MAX_TEXTURE_IMAGE_UNITS: 16
+17:42:34:096(0000042)	[info ]	  GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS: 32
+17:42:34:096(0000043)	[info ]	Render window (Imbricker) initialized (renderer type: OpenGL)
+17:42:34:147(0000044)	[info ]	[Lua] Lua version: Lua 5.4.0
+17:42:34:150(0000045)	[info ]	[Lua] LuaFileSystem initialized ok.
+17:42:34:150(0000046)	[info ]	[Lua] UTF8 initialized ok.
+17:42:34:151(0000047)	[info ]	[Lua] LuaSocket core initialized ok.
+17:42:34:151(0000048)	[info ]	[Lua] Mime core initialized ok.
+17:42:34:151(0000049)	[info ]	[Lua] LuaSQL SQLite3 driver initialized ok.
+17:42:34:152(0000050)	[info ]	[Lua] LuaGL initialized ok.
+17:42:34:153(0000051)	[info ]	[Lua] initialization ok.
+17:42:34:177(0000052)	[info ]	Scene compilation: SUCCESS.
+17:42:34:229(0000053)	[info ]	*** GPU_PROGRAM 'vertex_color_prog' créé = 53
+17:42:34:232(0000054)	[info ]	*** GPU_PROGRAM 'lum01_prog' créé = 55
+17:42:34:236(0000055)	[info ]	>>> GPU_PROGRAM 'texture_prog' : ID = 57 <<<
+17:42:34:239(0000056)	[info ]	>>> GPU_PROGRAM 'rgba_texture_prog' : ID = 59 <<<
+17:42:34:256(0000057)	[info ]	>>> GPU_PROGRAM 'texture_eclairage_prog' ID = 61 <<<
+17:42:34:263(0000058)	[info ]	>>> GPU_PROGRAM 'rgba_texture_prog' : ID = 63 <<<
+17:42:34:276(0000059)	[info ]	>>> GPU_PROGRAM 'cubemap_prog' crï¿½ï¿½ = 65 <<<
+17:42:34:283(0000060)	[info ]	>>> GPU_PROGRAM 'matcap_prog' créé = 67 <<<
+17:42:34:307(0000061)	[info ]	*** joystick.lua, Aucun JOYSTICK connecté. ***
+17:42:34:307(0000062)	[info ]	Format 20l10c winW=1150
+17:42:34:308(0000063)	[info ]	params.lua, winW=1150 winH=900
+17:42:34:664(0000064)	[info ]	params.lua, forme2D=rgba
+17:42:34:664(0000065)	[info ]	code forme initial = rgba: Defaut / 7 textures disponibles
+17:42:34:890(0000066)	[info ]	Modele 3D initial=3 hexagone
+17:42:34:891(0000067)	[info ]	*** Fonction 'multiJoueurs' : Ko ***
+17:42:34:896(0000068)	[info ]	init.lua: jeuW=450.0, celW=45.0 celH=45.0
+17:42:35:976(0000069)	[info ]	*** Incident création cubemap_texture ***
+17:42:35:978(0000070)	[info ]	Checking for new version...
+17:42:35:978(0000071)	[info ]	version.lua, user_agent=imbricker_win64_0.3.0.0
+17:42:36:734(0000072)	[info ]	... Your version is up to date
+17:42:36:734(0000073)	[info ]	-- FIN init.lua
+17:42:36:734(0000074)	[info ]	scripts INIT execution: OK.
+17:42:36:761(0000075)	[info ]	[FMOD] FMOD version: 00020004.
+17:42:37:056(0000076)	[info ]	[FMOD] num drivers: 1
+17:42:37:056(0000077)	[info ]	[FMOD] - driver 0: Pulseaudio
+17:42:46:209(0000078)	[info ]	Scene statistics:
+17:42:46:209(0000079)	[info ]	- 486 frames rendered during 9.456 seconds
+17:42:46:209(0000080)	[info ]	- average framerate: 51.4 FPS
+17:42:46:315(0000081)	[info ]	Stopping GeeXLab Player...
+17:42:46:339(0000082)	[info ]	GraphX Core stopped ok.
+17:42:46:339(0000083)	[info ]	Exit from GeeXLab Player.

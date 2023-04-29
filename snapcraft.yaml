@@ -1,0 +1,78 @@
+name:  imbricker
+title:  Imbricker
+version: "0.3.0.0"
+summary:   The classic brick puzzle game revisited
+description: |
+  Imbricker is a game based on the principle of the popular game Tetris. Imbricker is a free puzzle game where the player must complete lines by moving seven differently shaped pieces (called brickiminos) which descend onto the playing field. Brickiminos have to be fitted into each other. Once a line is completed, it disappers and the player wins points. The game ends when the playing field is filled. The longer the player can delay this inevitable outcome, the higher their score will be.
+
+grade: stable
+icon: imbricker_icon.png
+
+base: core18
+confinement: strict
+
+architectures:
+  - build-on: amd64
+
+environment:
+  WINEDLLOVERRIDES: "$WINEDLLOVERRIDES;mscoree,mshtml="    # Prevent pop-ups about Wine Mono and Wine Gecko
+  SOMMELIER_STRICT: "1"                                    # Make Sommelier exit when unset variable is used. (useful to find bugs in sommelier)
+
+apps:
+  imbricker:
+    extensions: [ gnome-3-28 ]
+    command: bin/sommelier run-exe
+    environment:
+      RUN_EXE: "Joust3_RevengeOfTheLavaTroll.exe"
+      #INSTALL_EXE: "$SNAP/Blockout25_setup.exe"
+      #INSTALL_FLAGS: "/S"
+    plugs:
+      - home
+      - network
+      - network-bind
+      - removable-media
+      - cups
+  # The wine command can be used to run applications inside the wine
+  # environment that this snap uses.
+  #
+  # For example, users can configure the wine environment of this snap
+  # by running `myapp.wine winecfg`.
+  wine:
+    extensions: [ gnome-3-28 ]
+    command: bin/sommelier
+    plugs:
+      - home
+      - network
+      - network-bind
+      - removable-media
+      - cups
+ # The winetricks command can be used to run winetricks inside the wine
+  # environment that this snap uses.
+  winetricks:
+    extensions: [ gnome-3-28 ]
+    command: bin/sommelier winetricks
+    plugs:
+      - network
+
+parts:
+  installer:
+    plugin: dump
+    source: ./
+
+  # The sommelier script helps you snap Windows applications using Wine. It 
+  # initializes and configures Wine and installs the Windows application.
+  sommelier:
+    plugin: make
+    source: https://github.com/snapcrafters/sommelier-core.git
+
+# These plugs are used to connect the snap to the wine runtime.
+plugs:
+  wine-runtime:
+    interface: content
+    target: $SNAP/wine-runtime
+    default-provider: wine-platform-runtime
+  wine-5-stable:
+    interface: content
+    target: $SNAP/wine-platform
+    default-provider: wine-platform-5-stable
+
